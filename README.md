@@ -1,8 +1,8 @@
- Weather Balloon Project
+Weather Balloon Project
 
 To send a payload containing gps, electronics, and camera to altitude of ~30km via a weather balloon
 
-![idea of how everything is connected](weather balloons.png)
+<img width="1200" height="900" alt="weather balloon" src="https://github.com/user-attachments/assets/5f28afc6-eaf3-41f5-9c44-c16992499a6c" />
 Diagram 1: Image visualization of how the payload is connected to the weather balloon via a parachute
 
 --Overall design Considerations--
