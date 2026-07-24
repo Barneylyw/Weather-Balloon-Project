@@ -21,12 +21,12 @@ I wired the SFE_MMA8452Q and SD card module to the Arduino Uno according to onli
 <img width="50%" alt="wired up sensor" src="https://github.com/user-attachments/assets/57878f1e-78ea-4207-906c-b3c53018ffe5" />
 </p>
 Image 1: SFE_MMA8452Q wired up to Arduino according to online guides
-<img width="2048" height="1536" alt="wired up SD card module" src="https://github.com/user-attachments/assets/9cdfccef-6ca2-401f-970f-4ce5a1672fdd" />
+<p align="center"><img width="50%" alt="wired up SD card module" src="https://github.com/user-attachments/assets/9cdfccef-6ca2-401f-970f-4ce5a1672fdd" /></p>
 Image 2: SD card module wired up inside the payload
 
 I first tested out the acceleration and temperature sensing from SFE_MMA8452Q using the MMA8452Q_Basic.ino for acceleration and C_and_F.ino for temperature, then I combined both into Combined.ino and used that for the overall data collection system.
 
 --GPS system--
-Our original idea was to wire up the SIM808 module with the Arduino to send the payload's location to our phones once it lands, we modified the example code Vehicle_Tracking.ino from SIM808 fit our needs 
+Our original idea was to wire up the SIM808 module with the Arduino to send the payload's location to our phones once it lands, we modified the example code Vehicle_Tracking.ino from SIM808 to fit our needs. However, 
 
 
