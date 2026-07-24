@@ -17,7 +17,9 @@ Diagram 1: Image visualization of how the payload is connected to the weather ba
 We used SFE_MMA8452Q for data collection module alongside a SD card module controlled by an Arduino Uno.
 
 I wired the SFE_MMA8452Q and SD card module to the Arduino Uno according to online guides and modified the example code to write data to the SD card. 
-<img width="1536" height="2048" alt="IMG_6961" src="https://github.com/user-attachments/assets/57878f1e-78ea-4207-906c-b3c53018ffe5" />
+<p align="center">
+<img width="50%" alt="wired up sensor" src="https://github.com/user-attachments/assets/57878f1e-78ea-4207-906c-b3c53018ffe5" />
+</p>
 Image 1: SFE_MMA8452Q wired up to Arduino according to online guides
 <img width="2048" height="1536" alt="wired up SD card module" src="https://github.com/user-attachments/assets/9cdfccef-6ca2-401f-970f-4ce5a1672fdd" />
 Image 2: SD card module wired up inside the payload
