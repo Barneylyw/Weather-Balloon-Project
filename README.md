@@ -43,18 +43,21 @@ Here is the final payload, it weighs 517g:
 <p align="center"><img width="50%" alt="cameras and GPS wired up in payload" src="https://github.com/user-attachments/assets/56c371f8-5735-49d2-bd8f-0593702f3a2e" /></p>
 Image 5: Cameras, data collection system, and GPS all assembled into the payload
 
+
 --Parachute--
 
 Off-the-shelf 1-metre-wide parachute from High Altitude Science; we connected it to the finished payload and tested it in a stairwell to verify it would open.
-We then used the weight of the payload alongside the area of the parachute to determine its descent rate
+We then used the mass of the payload alongside the area of the parachute to determine its descent rate
 
 --Flight--
+
 To determine how much helium we would need to achieve the targeted 30km, we used the SondeHub weather balloon calculator to determine how much helium we need. We changed our target burst altitude until we got the highest projected burst altitude while staying under 115cu ft.  
+I also created balloon burst graphs.csv to gain an understanding of how the balloon behaves with different payload mass, burst altitude, etc...
 <p align="center"><img width="50%" height="786" alt="image" src="https://github.com/user-attachments/assets/a0ffb9e8-b73c-4671-8570-8ce52c4e47a1" /> </p>
 Image 6: SondeHub Calculator results showing we need 114.5 cu ft. to achieve 33.6km burst altitude.
-Then we need to determine its rough flight path, we used predict.sondehub.org tool to predict its path and landing site after entering our predicted launch time (Aug 24, 2024 noon) and location (Ayr, ON).
+
+Then we need to determine its rough flight path. We used the predict.sondehub.org tool to predict its path and landing site after entering our predicted launch time (Aug 24, 2024, noon) and location (Ayr, ON).
 <p align="center"><img width="50%" alt="predicted land location" src="https://github.com/user-attachments/assets/e97e8ee8-5d75-4c67-8802-ab576e0eda74" /></p>
-Image 7: predicted landing location near Hagersville, ON at 4pm
+Image 7: Predicted landing location near Hagersville, ON at ~6 pm
 
-
-
+We contacted NavCan to ensure legality and completed simple documentation (balloon.pdf)
