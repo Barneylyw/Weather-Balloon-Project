@@ -52,11 +52,11 @@ We then used the mass of the payload alongside the area of the parachute to dete
 --Flight--
 
 To determine how much helium we would need to achieve the targeted 30km, we used the SondeHub weather balloon calculator to determine how much helium we need. We changed our target burst altitude until we got the highest projected burst altitude while staying under 115cu ft.  
-I also created balloon burst graphs.csv to gain an understanding of how the balloon behaves with different payload mass, burst altitude, etc...
+I also created balloon burst graphs.xlsx to gain an understanding of how the balloon behaves with different payload mass, burst altitude, etc...
 <p align="center"><img width="50%" height="786" alt="image" src="https://github.com/user-attachments/assets/a0ffb9e8-b73c-4671-8570-8ce52c4e47a1" /> </p>
 Image 6: SondeHub Calculator results showing we need 114.5 cu ft. to achieve 33.6km burst altitude.
 
-Then we need to determine its rough flight path. We used the predict.sondehub.org tool to predict its path and landing site after entering our predicted launch time (Aug 24, 2024, noon) and location (Ayr, ON).
+Then we need to determine its rough flight path. We used the predict.sondehub.org tool to predict its path (20240824-balloon flight path0_standard_profile_2024082318Z.kml) and landing site after entering our predicted launch time (Aug 24, 2024, noon) and location (Ayr, ON).
 <p align="center"><img width="50%" alt="predicted land location" src="https://github.com/user-attachments/assets/e97e8ee8-5d75-4c67-8802-ab576e0eda74" /></p>
 Image 7: Predicted landing location near Hagersville, ON at ~6 pm
 
