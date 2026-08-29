@@ -27,6 +27,4 @@ Image 2: SD card module wired up inside the payload
 I first tested out the acceleration and temperature sensing from SFE_MMA8452Q using the MMA8452Q_Basic.ino for acceleration and C_and_F.ino for temperature, then I combined both into Combined.ino and used that for the overall data collection system.
 
 --GPS system--
-Our original idea was to wire up the SIM808 module with the Arduino to send the payload's location to our phones once it lands, we modified the example code Vehicle_Tracking.ino from SIM808 to fit our needs. However, 
-
-
+Our original idea was to wire up the SIM808 module with the Arduino to send the payload's location to our phones once it lands; we modified the example code Vehicle_Tracking.ino from SIM808 to fit our needs, where it will send its location to one of our phones when we send it a message. However, the system can only get its GPS location when tested, but will not send or reply to any text messages. In accordance with our timeline, we decided to buy an off-the-shelf car tracker (Tracki) to achieve the same results.
