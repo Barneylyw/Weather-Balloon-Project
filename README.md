@@ -1,6 +1,6 @@
 Weather Balloon Project
 
-To send a payload containing gps, electronics, and camera to altitude of ~30km via a weather balloon
+To send a payload containing gps, electronics, and camera to altitude of ~30 km via a weather balloon
 
 <img width="50%" alt="weather balloon" src="https://github.com/user-attachments/assets/5f28afc6-eaf3-41f5-9c44-c16992499a6c" />
 Diagram 1: Image visualization of how the payload is connected to the weather balloon via a parachute
@@ -60,4 +60,4 @@ Then we need to determine its rough flight path. We used the predict.sondehub.or
 <p align="center"><img width="50%" alt="predicted land location" src="https://github.com/user-attachments/assets/e97e8ee8-5d75-4c67-8802-ab576e0eda74" /></p>
 Image 7: Predicted landing location near Hagersville, ON at ~6 pm
 
-We contacted NavCan to ensure legality and completed simple documentation (balloon.pdf)
+We contacted NavCan to ensure legality and documented the needed information (balloon.pdf)
