@@ -60,4 +60,4 @@ Then we need to determine its rough flight path. We used the predict.sondehub.or
 <p align="center"><img width="50%" alt="predicted land location" src="https://github.com/user-attachments/assets/e97e8ee8-5d75-4c67-8802-ab576e0eda74" /></p>
 Image 7: Predicted landing location near Hagersville, ON at ~6 pm
 
-We contacted NavCan to ensure legality and documented the needed information (balloon.pdf)
+We then contacted NavCan to ensure legality and documented the needed information (balloon.pdf)
