@@ -61,3 +61,11 @@ Then we need to determine its rough flight path. We used the predict.sondehub.or
 Image 7: Predicted landing location near Hagersville, ON at ~6 pm
 
 We then contacted NavCan to ensure legality and documented the needed information (balloon.pdf)
+
+https://github.com/user-attachments/assets/52014bbc-faa5-4cd3-a823-c538397e8fd6
+Video 1: the video of us launching the weather balloon
+
+Unfortunately, we lost contact with the weather balloon after ~30 min and were unable to retrieve it.
+
+We theorized that it could be due to the cold air in the atmosphere at higher altitudes causing the GPS to die more quickly, as we do not have any heating and/or insulation system on the payload.
+There is also a chance of us not inflate the weather balloon enough, as we do not have a pressure gauge when filling it up, which is another oversight.
